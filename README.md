@@ -2,7 +2,7 @@
 
 ## P3: Classic Arcade Game Clone
 
-Provided with visual assets and a game loop engine; using these tools  added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
+Provided visual assets and a game loop engine; using these tools  added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
 
 How to Play GAME:
 1- open the index.html
